@@ -6,6 +6,9 @@ Hundreds 🔥
 Innings Played 🏏
 And much more...
 
+Tool Used : Power Bi
+Data : From the web URL
+
 📊 Features of the Report:
 Slicer Options to filter by Match Type (ODI, T20, Test) and Opponent Country 🌏
 Column Chart highlighting the top 5 opponent countries with the most runs scored 🏆
